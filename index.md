@@ -28,7 +28,7 @@ OOP graphics collision based 2ds space shooter. Created winter of 2021.
 ### Open Sea Grid Combat Game
 OOP graphics collision based. Similar to SpaceGame set-up. A current work in progress.
 
-![Open Sea Grid Combat](<img width="1994" alt="Open Sea Grid Combat" src="https://user-images.githubusercontent.com/89169471/170338022-073dda03-a50c-4915-90a1-0aa0645485bf.png">)
+![Open Sea Grid Combat]()
 
 [Source code for OSGC]()
 
