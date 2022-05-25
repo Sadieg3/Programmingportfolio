@@ -29,7 +29,7 @@ OOP graphics collision based 2ds space shooter. Created winter of 2021.
 OOP graphics collision based. Similar to SpaceGame set-up. A current work in progress.
 
 ![Open Sea Grid Combat](<img width="1994" alt="Open Sea Grid Combat" src="https://user-images.githubusercontent.com/89169471/170338022-073dda03-a50c-4915-90a1-0aa0645485bf.png">)
-![Open Sea Grid Combat](<img width="2142" alt="OSGC" src="https://user-images.githubusercontent.com/89169471/170338096-208cba02-0336-4cc1-983f-4d4e8b0fee32.png">)
+
 [Source code for OSGC]()
 
 ### 99 Bottles Game
