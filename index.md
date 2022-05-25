@@ -1,5 +1,5 @@
 # Sadie Greenberg's Programming  I  Portfolio
-
+Contact Info: sadiemg04@gmail.com
 ## Processing Projects
 
 ### SpaceGame
