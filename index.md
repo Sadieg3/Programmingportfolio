@@ -30,7 +30,7 @@ OOP graphics collision based 2ds space shooter. Created winter of 2021.
 [Source code for OSGC](SpaceGame.zip(https://github.com/Sadieg3/Programmingportfolio/files/8200281/SpaceGame.zip)
 
 ### 99 Bottles Game
-OOP graphics collision based 2ds space shooter. Created winter of 2021.
+OOP graphics collision based 2ds space shooter. Created winter of 2021..
 
 ![99 Bottles](https://github.com/Sadieg3/Programmingportfolio/blob/gh-pages/images/SpaceGame.png)
 [Source code for 99 Bottles](SpaceGame.zip(https://github.com/Sadieg3/Programmingportfolio/files/8200281/SpaceGame.zip)
