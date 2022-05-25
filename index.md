@@ -11,10 +11,10 @@ OOP graphics collision based 2ds space shooter. Created winter of 2021.
 ### Cars Game
 OOP graphics collision based 2ds space shooter. Created winter of 2021.
 
-![Cars Game](![Cars](https://user-images.githubusercontent.com/89169471/170340654-f07be64f-a73e-4418-9967-ca6826d6fe85.png)
-)
-[Source code for Cars]([cars.zip](https://github.com/Sadieg3/Programmingportfolio/files/8773675/cars.zip)
-)
+![Cars Game](https://github.com/Sadieg3/Programmingportfolio/blob/gh-pages/images/Cars%20Game.png?raw=true)
+
+[Source code for Cars](https://github.com/Sadieg3/Programmingportfolio/tree/gh-pages/src/cars)
+
 
 
 
@@ -28,7 +28,10 @@ OOP graphics collision based 2ds space shooter. Created winter of 2021.
 ### Open Sea Grid Combat Game
 OOP graphics collision based. Similar to SpaceGame set-up. A current work in progress.
 
-![Open Sea Grid Combat]()
+![Open Sea Grid Combat](https://github.com/Sadieg3/Programmingportfolio/blob/gh-pages/images/OSGC%20start%20screen.png?raw=true)
+
+![Open Sea Grid Combat](https://github.com/Sadieg3/Programmingportfolio/blob/gh-pages/images/OSGC%20game%20screen%20layout.png?raw=true)
+
 
 [Source code for OSGC]()
 
@@ -36,13 +39,12 @@ OOP graphics collision based. Similar to SpaceGame set-up. A current work in pro
 OOP graphics collision based 2ds space shooter. Created winter of 2021..
 
 ![99 Bottles](https://github.com/Sadieg3/Programmingportfolio/blob/gh-pages/images/99%20Bottles.png?raw=true)
-[Source code for 99 Bottles](https://replit.com/@SADIEGREENBERG/99Bottles#Main.java)
+[Source code for 99 Bottles](https://github.com/Sadieg3/Programmingportfolio/tree/gh-pages/src/99Bottles)
 
 ### Number Guessing Game
 OOP graphics collision based 2ds space shooter. Created winter of 2021.
 
-![Guessing Game](<img width="355" alt="Guessing Game" src="https://user-images.githubusercontent.com/89169471/170333857-97eefef9-4190-4851-ae0b-cd182089191a.png">
-)
-[Source code for Guessing Game](https://replit.com/@SADIEGREENBERG/GuessingGame#Main.java) 
+![Guessing Game](https://github.com/Sadieg3/Programmingportfolio/blob/gh-pages/images/Guessing%20Game.png?raw=true)
+[Source code for Guessing Game](https://github.com/Sadieg3/Programmingportfolio/tree/gh-pages/src/GuessingGame) 
 
 
