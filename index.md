@@ -35,8 +35,7 @@ OOP graphics collision based. Similar to SpaceGame set-up. A current work in pro
 ### 99 Bottles Game
 OOP graphics collision based 2ds space shooter. Created winter of 2021..
 
-![99 Bottles](<img width="1043" alt="99 Bottles" src="https://user-images.githubusercontent.com/89169471/170331920-1ef7e3a2-1d28-46cf-af61-0cf8dc949a36.png">
-)
+![99 Bottles](https://github.com/Sadieg3/Programmingportfolio/blob/gh-pages/images/99%20Bottles.png?raw=true)
 [Source code for 99 Bottles](https://replit.com/@SADIEGREENBERG/99Bottles#Main.java)
 
 ### Number Guessing Game
